@@ -24,6 +24,11 @@ Dann schau doch auf unserer Homepage vorbei, dort erhältst du mehr informatione
   
 Wir freuen uns über jede Unterstützung und laden dich herzlich ein, Teil von Freifunk München zu werden!
 
+## Socials
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110219050821710120?domain=https%3A%2F%2Fsocial.ffmuc.net)](https://social.ffmuc.net/@freifunkMUC)  
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/freifunkmuc)](https://twitter.com/freifunkmuc)
+
 
 ## Spenden
 Mehr Infos zu [Spenden](https://ffmuc.net/wiki/doku.php?id=ev:start&s[]=spenden#ich_moechte_euch_gerne_unterstuetzen_aber_kein_mitglied_werden_was_kann_ich_tun)
