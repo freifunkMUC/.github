@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Freifunk München ist eine lokale Initiative, die sich für freie und offene WLAN-Netzwerke in München einsetzt. Unser Ziel ist es, ein dezentrales und unabhängiges Netzwerk aufzubauen, das allen Menschen Zugang zum Internet ermöglicht.
+Freifunk München ist eine lokale Initiative, die sich für freie und offene WLAN-Netzwerke in München und Umgebung einsetzt. Unser Ziel ist es, ein dezentrales und unabhängiges Netzwerk aufzubauen, das allen Menschen Zugang zum Internet ermöglicht.
 
 ## Was ist Freifunk?
 
