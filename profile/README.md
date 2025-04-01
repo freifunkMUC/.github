@@ -20,6 +20,7 @@ Du möchtest Teil unserer Community werden und mithelfen, freie WLAN-Netzwerke i
 Dann schau doch auf unserer Homepage vorbei, dort erhältst du mehr informationen.
 - https://ffmuc.net/mitmachen/ 
 - https://ffmuc.net/kontakt/
+- https://mitglieder.ffmuc.net/
   
   
 Wir freuen uns über jede Unterstützung und laden dich herzlich ein, Teil von Freifunk München zu werden!
