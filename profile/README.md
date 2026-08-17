@@ -21,6 +21,8 @@ Dann schau doch auf unserer Homepage vorbei, dort erhältst du mehr informatione
 - https://ffmuc.net/mitmachen/ 
 - https://ffmuc.net/kontakt/
 - https://mitglieder.ffmuc.net/
+- https://spende.ffmuc.net/
+- https://dns-setup.ffmuc.net/
   
   
 Wir freuen uns über jede Unterstützung und laden dich herzlich ein, Teil von Freifunk München zu werden!
@@ -32,7 +34,7 @@ Wir freuen uns über jede Unterstützung und laden dich herzlich ein, Teil von F
 
 
 ## Spenden
-Mehr Infos zu [Spenden](https://ffmuc.net/wiki/doku.php?id=ev:start&s[]=spenden#ich_moechte_euch_gerne_unterstuetzen_aber_kein_mitglied_werden_was_kann_ich_tun)
+Mehr Infos zu [Spenden](https://spende.ffmuc.net/)
 
 
  
